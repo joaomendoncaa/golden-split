@@ -15,8 +15,8 @@
     "contributes": {
         "commands": [
             {
-                "command": "extension.openEasyNavigation",
-                "title": "Open Easy Navigation"
+                "command": "extension.goldenSplitEditorGroup",
+                "title": "Golden Split Editor Group"
             }
         ]
     },
